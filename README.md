@@ -71,7 +71,7 @@ so that next promotional events can be planned to boost the growth of Organizati
 
 ⏩Important Links:-
 
-- GitHub Repo:-
+- GitHub Repo:-https://github.com/Vkumar-sys/Codebasics_Rc_9_Adhoc_Queries
 
 - Dashboard Pbix File(NovyPro Link):
 
