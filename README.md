@@ -92,11 +92,11 @@ Key Insights and Recommendations:-
 >Worst Promo-25% OFF
 
 ◈Recommendations-
->Target Messaging-Fine tune the product assortment strategy for festive promotions and adjust inventory levels to meet demands
+ > Target Messaging-Fine tune the product assortment strategy for festive promotions and adjust inventory levels to meet demands
 
-> Continous Improvement-Emphasize the importance of continuous improvement and iteration based on data driven insights from Power Bi Analysis
+ > Continous Improvement-Emphasize the importance of continuous improvement and iteration based on data driven insights from Power Bi Analysis
 
->Engage with the Influencers-Collaborate with the influencers and brand ambassadors to amplpify the promotional efforts for Makar Sankranti and Diwali Campaigns.Leverage their reach and credibility within the target audience to increase the brand visibility and drive sales during the festive periods
+> Engage with the Influencers-Collaborate with the influencers and brand ambassadors to amplpify the promotional efforts for Makar Sankranti and Diwali Campaigns.Leverage their reach and credibility within the target audience to increase the brand visibility and drive sales during the festive periods
 
 Thanks for support and curating this initiative Dhaval Patel and Hemanand Vadivel sir where we get to hone our practical skills to some real world datasets and have a great learning experience and exposure so looking forward to you guys and the respected audience  for any feedback and corrections. Special mention to the discord server of Codebasics for community help in preparing for this specific challenge.
 
