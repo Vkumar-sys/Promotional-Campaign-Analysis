@@ -29,7 +29,7 @@ enabling better  decision-making and strategic insights. The key highlights of t
 bottom performing promotions,top selling products(categories and sub-categories) and other key revenue metrics critical for analyzing the success of the festive campaign and to do a comparative study 
 so that next promotional events can be planned to boost the growth of Organization.
 
-🔹KPI Indicators:
+🔹KPI Indicators:-
 
 ➡ Gross Revenue-Revenue before promotion
 
@@ -47,13 +47,13 @@ so that next promotional events can be planned to boost the growth of Organizati
 
 ➡ ISU %-Growth in Sold Units
 
-⏩Important Links:
+⏩Important Links:-
 
 - GitHub Repo:-
 
 - Dashboard Pbix File(NovyPro Link):
 
-✔Credits-
+✔Credits:-
 
 -  https://bit.ly/4b453bi(How to Power Bi YouTube Channel)-Used for UI customizations and some interesting KPI design using DAX
 
@@ -64,7 +64,7 @@ Key Insights and Recommendations:-
 
 >Top Performing(IR)-Bengaluru,Chennai,Hyderabad,
 
->Top Performing(ISU)-Bnegaluru,Chennai,Hyderabad
+>Top Performing(ISU)-Bengaluru,Chennai,Hyderabad
 
 >Bottom Performing IR-Mangalore,Vijaywada,Trivandrum
 
