@@ -63,3 +63,21 @@ Key Insights and Recommendations:-
 ↪
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for support and curating this initiative Dhaval Patel and Hemanand Vadivel sir where we get to hone our practical skills to some real world datasets and have a great learning experience and exposure so looking forward to you guys and the respected audience  for any feedback and corrections. Special mention to the discord server of Codebasics for community help in preparing for this specific challenge.
+
+
+#Resume_Challenge_Project_9 # Data_Analytics #Business_Analytics #SQL #PowerBi #Dashboarding #Story-Telling #CodeBasics
+
+
