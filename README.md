@@ -113,7 +113,8 @@ Key Insights and Recommendations:-
 
 >Worst Promo-25% OFF
 
-◈Recommendations-
+◈Recommendations:- 
+
  > Target Messaging-Fine tune the product assortment strategy for festive promotions and adjust inventory levels to meet demands
 
  > Continous Improvement-Emphasize the importance of continuous improvement and iteration based on data driven insights from Power Bi Analysis
