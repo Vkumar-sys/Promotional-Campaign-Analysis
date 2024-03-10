@@ -12,6 +12,28 @@ AtliQ Mart is a retail giant with over 50 supermarkets in southern region of Ind
 during Diwali 2023 and Sankranti 2024(festive time in India) on their AtliQ branded products.Now the sales director wants to understand 
 which promotions did well and which did not so that they can make informed decisions for the next promotional period
 
+◽ Files_Info:-
+
+>dim_campaigns,dim_products,dim_stores,fact_events-(These are the three dimension and one fact table data file)
+
+>ad-hoc_requests-It contains the set of business queries that needs to be answered using SQL
+
+>meta_data-It contains the information about the each data file
+
+>Problem_Statement-It contains the information about the business problem statement that needs to be answered
+
+>Recommended_Insights-It contains the set of recommended problem statement that needs to be worked upon
+
+▣Data Model Image-
+
+![image](https://github.com/Vkumar-sys/Promotional-Campaign-Analysis/assets/66684700/c7d8b15c-35f3-40dd-910e-d9eba56d80a1)
+
+
+
+
+
+
+
 🔷Tools and Languages Used:-
 
 🟢Visualization Tool: Power BI
