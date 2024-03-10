@@ -62,30 +62,39 @@ so that next promotional events can be planned to boost the growth of Organizati
 Key Insights and Recommendations:-
 ↪Cities-
 
->Top Performing(IR)-Bengaluru,Chennai,Hyderabad
+>Top Performing(IR)-Bengaluru,Chennai,Hyderabad,
+
 >Top Performing(ISU)-Bnegaluru,Chennai,Hyderabad
+
 >Bottom Performing IR-Mangalore,Vijaywada,Trivandrum
+
 >Bottom Performing(ISU)-Mangalore,Vijaywada,Trivandrum
 
 ↪Campaign Analysis-
 >Top Campaign(IR)-Diwali
+
 >Top Campaign(ISU)-Sankranti
 
 ↪Product Category-
 >Top Performing(IR)-Combo1
+
 >Top Performing(ISU)-Grocery and Staples
+
 >Top Selling Product-Atliq Farm Chakki Atta(1 Kg)
+
 >Worst Selling Product-Atliq_Fusion_Container_Set_of_3
 
 ↪Promo Type-
 >Top Promo(IR)-500 Cashback
+
 >Top Promo(ISU)-BOGOF
+
 >Worst Promo-25% OFF
 
 ◈Recommendations-
 >Target Messaging-Fine tune the product assortment strategy for festive promotions and adjust inventory levels to meet demands
 
-> Continous Improvement- Emphasize the importance of continuous improvement and iteration based on data driven insights from Power Bi Analysis
+> Continous Improvement-Emphasize the importance of continuous improvement and iteration based on data driven insights from Power Bi Analysis
 
 >Engage with the Influencers-Collaborate with the influencers and brand ambassadors to amplpify the promotional efforts for Makar Sankranti and Diwali Campaigns.Leverage their reach and credibility within the target audience to increase the brand visibility and drive sales during the festive periods
 
