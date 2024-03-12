@@ -71,9 +71,13 @@ so that next promotional events can be planned to boost the growth of Organizati
 
 ⏩Important Links:-
 
-- GitHub Repo:- https://github.com/Vkumar-sys/Codebasics_Rc_9_Adhoc_Queries
-- (Contains the Business SQL queries that needs to be answered)
-- NovyPro Portfolio Link(To Navigate through the dashboard):https://www.novypro.com/profile_projects/vikaskumar-2
+ 🔗GitHub Repo:- https://github.com/Vkumar-sys/Codebasics_Rc_9_Adhoc_Queries
+ 
+  (Contains the Business SQL queries that needs to be answered)
+  
+🔗 NovyPro Portfolio Link 🔗 (To Navigate through the dashboard)
+    ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇
+    https://www.novypro.com/profile_projects/vikaskumar-2
 
 ✔Credits:-
 
