@@ -24,7 +24,7 @@ which promotions did well and which did not so that they can make informed decis
 
 >Recommended_Insights-It contains the set of recommended problem statement that needs to be worked upon
 
-▣Data Model Image-
+▣Data Model Image-(We are following a start scehma data model) 
 
 ![image](https://github.com/Vkumar-sys/Promotional-Campaign-Analysis/assets/66684700/c7d8b15c-35f3-40dd-910e-d9eba56d80a1)
 
