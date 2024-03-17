@@ -2,7 +2,7 @@
 
 # Introduction:-
 
-I'm thrilled and excited 👏 to share that i have completed the Code Basics Challenge Project 9 in the FMCG domain, where i have crunched the Sales/Promotions 
+I'm thrilled and excited 👏 to share that i have completed the Code Basics Challenge Project 9 in the FMCG(Fast Moving Consumer Goods) domain, where i have crunched the Sales/Promotions 
 data and created compelling dashboards featuring the storytelling of promotions based tangible insights 
 on ATLIQ branded products under ATLIQ Mart(an imaginary sales company) in sales/promotions functions.
 
