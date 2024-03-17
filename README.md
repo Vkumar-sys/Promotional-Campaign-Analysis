@@ -75,7 +75,7 @@ so that next promotional events can be planned to boost the growth of Organizati
  
   (Contains the Business SQL queries that needs to be answered)
   
-🔗 NovyPro Portfolio Link 🔗 (To Navigate through the dashboard)
+🔗 NovyPro Portfolio Link 🔗 (To Navigate and interact through the Dashboard)
     
     ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇
     https://www.novypro.com/profile_projects/vikaskumar-2
